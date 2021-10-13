@@ -41,4 +41,4 @@ def probcuadradolibre(N):
             count += 1
     return count/N
 
-print(probcuadradolibre(1000))
+print(probcuadradolibre(100000))
